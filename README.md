@@ -386,7 +386,7 @@ Lets look at my simple chat application . Using local server WAMP and coded in P
 
 ## Single Page Application
 
-![spa](C:\Users\prajwal prashanth\Desktop\spa.jpg)
+![spa](spa.jpg)
 
 * Traditional example www.theschool.ai
 * SPA example lets look at www.github.com itself
@@ -464,7 +464,9 @@ Lets look at my simple chat application . Using local server WAMP and coded in P
 
 If you have Pen drives or External Hard drives, I can share some video tutorials.
 
-<img src="C:\Users\prajwal prashanth\Downloads\WhatsApp Image 2019-02-01 at 7.49.42 AM.jpeg" height="500px">
+<img src="WhatsApp Image 2019-02-01 at 7.49.42 AM.jpeg" height="500px">
+
+
 
 https://linkedin.com/in/prajwalprashanth
 
