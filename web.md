@@ -472,3 +472,28 @@ https://linkedin.com/in/prajwalprashanth
 
 
 
+## Git Command line Commands
+
+#### First time when you have installed git to your PC
+
+* git config --global user.name "**_your_username_**"
+* git config --global user.email "**_your_email_id_**"
+
+   
+#### When a new repository is created and you want import the repo to your local machine
+* git clone **_you_repository's_url_**
+
+#### When you have made changes in the files of your local machine and want to sync it with online repo in github
+* git add .
+* git commit -m "**_your comments about the changes_**"
+* git push
+
+#### When you made changes in your github repo and want to bring those changes to local machine
+* git pull
+
+**NOTE these points**
+* use cd command to change the directory(aka folders in your system) and necesarry path to go to your local repo before using these above commands 
+* Don't Name any other repo in the format (your_username.github.io) as this repo is used to host your webpage
+* the landing page should be index.html you can add other webpages to check them you should use the url (your_username.github.io/file_name.html)
+
+
